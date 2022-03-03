@@ -2,7 +2,6 @@ import React, { useEffect } from 'react'
 import { FaGithub , FaTwitter } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
 import {GrMail}  from "react-icons/gr";
-import Typist from 'react-typist';
 import Aos from 'aos';
 import 'aos/dist/aos.css'
 export default function Footer() {
