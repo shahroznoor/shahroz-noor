@@ -13,7 +13,7 @@ function App() {
     })
   })
   return (
-    <div className="min-h-screen py-10 px-3 sm:px-5 bg-gray-100 dark:bg-slate-900">
+    <div className=" py-10 px-3 w-full overflow-hidden bg-gray-100 dark:bg-slate-900">
       <div data-aos='fade-down' data-aos-duration='800'> <Card/></div>
       <div data-aos='fade-up' data-aos-duration='800' data-aos-delay='400'> <About/></div>
       <Skill />

@@ -14,7 +14,7 @@ export default function Contact() {
             Interseted In Working Together? 
         </p>
         <a href='mailto:shahroznoor2017@gmail.com' className='justify-center'>
-            <span className='mt-10 inline-block w-auto bg-black font-dispay text-white text-base  py-4 px-7 cursor-pointer transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:bg-white hover:text-black hover:border-black border-2 duration-300 dark:bg-white dark:text-black'>
+            <span className='mt-10 inline-block w-auto bg-black font-dispay text-white text-base  py-4 px-7 cursor-pointer transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:bg-white hover:text-black hover:border-black border-2 duration-300 dark:bg-white dark:text-black dark:hover:bg-black dark:hover:text-white'>
                 <div className='flex flex-row items-center '>
                         <span className='mr-3'> Get in Touch</span>
                         <FaArrowRight  className= ' ' />
